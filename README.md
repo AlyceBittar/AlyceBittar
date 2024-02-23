@@ -17,6 +17,10 @@ Once thrown away, food is transported to a landfill where it goes to sit, decomp
 
 
 ## More Info
+### 📫 Interested in working together? 
+Message me on [Linkedin]([url](https://www.linkedin.com/in/alyce-bittar/))!
+
+
 ### 🐴 Fun fact 
 I'm an equestrian athlete that has competed for Team USA all over the world! 🇺🇸🏅💕
 
@@ -25,9 +29,6 @@ I'm an equestrian athlete that has competed for Team USA all over the world! �
 ![image](https://github.com/AlyceBittar/AlyceBittar/assets/135398924/53679ce6-2f5f-4b08-a30c-fa472bd1abe8)
 
 
-### 📫 Interested in working together? 
-Message me on [Linkedin]([url](https://www.linkedin.com/in/alyce-bittar/))!
-  
 <!---
 AlyceBittar/AlyceBittar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
