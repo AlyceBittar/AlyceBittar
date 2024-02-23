@@ -4,7 +4,7 @@ My aim is to bring unique perspectives to projects, translating ideas into impac
 
 ## What am I working on? 
 
-#### ⚡ An app that works as your seamless kitchen assisant ⚡
+#### ⚡ SpoilSaver: An app that works as your seamless kitchen assisant ⚡
 **The Problem** - Americans waste an average of $1600/yr on food. 
 That's equivalent to 1 year of gas or ~$30 per grocery trip thrown in the trash. 
 Once thrown away, food is transported to a landfill where it goes to sit, decompose, and contribute to the warming of our planet.  With the effects of global warming continually becoming apparent, food prices rising and the money we earn getting stretched thinner each year, the need for a solution that would support the lack of management when it comes to our kitchens is highly apparent. 
