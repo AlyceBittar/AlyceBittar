@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Alyce!
-## A software engineer with diverse experience spanning robotics and mobile/web application product lifecycles. 
+## A software engineer with diverse experience spanning full product lifecycles for robotics and mobile/web applications. 
 My aim is to bring unique perspectives to projects, translating ideas into impactful, user-centric solutions.
 
 ## What am I working on? 
