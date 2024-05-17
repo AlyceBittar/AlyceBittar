@@ -12,10 +12,6 @@ Once thrown away, food is transported to a landfill where it goes to sit, decomp
 **Our Solution** - My team and I are working to create an app to help users keep track of the food they have while saving money and reducing food waste. It leverages ML and AI to provide users with a simple interface that takes 3-clicks to add food to your virtual kitchen assistant. Capable of notifying users before food expires, providing recipes using what they have in their kitchen, and connecting users to food donation centers nearby; our goal is to deliver **SpoilSaver** - your seamless kitchen assistant.
 
 
-#### 🦾 Growing my knowlegde to become a programming superstar 🦾
-
-
-
 ## More Info
 ### 📫 Interested in working together? 
 Message me on [Linkedin]([url](https://www.linkedin.com/in/alyce-bittar/))!
